@@ -20,6 +20,8 @@ root directory
 
 ## Usage.
   - Enter the effective digit when comparing numbers. / 数字を比較する場合の、有効桁数を入力する。
+  <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/01-afterSetting.png" width="00">
+  
   - Enter the path of directory where the files to be compared are stored. / 比較するファイルが保存されているディレクトリを入力する。
     - Source file directory path. / ソースファイルディレクトリ（比較元）
     - Destination file directory path. / 突合ファイルディレクトリ（比較先）
