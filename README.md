@@ -27,11 +27,17 @@ root directory
   <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/01-afterSetting.png" width="600">
   
   - The files are compared according to the settings when the button is clicked. If there are different parts, the cell with arrow mark in the column H is painted red. / ボタンを押すと、設定に従ってファイル同士が比較される。異なる部分がある場合、H列の矢印のセルが赤く塗りつぶされる。
+  
   <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/02-compare.png" width="600">
   
-  - 比較した結果の詳細は、各シートを参照する。 / Refer to each sheet for details of the comparison results.
-
-  <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/03_result-1.png" width="600">  
-  <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/04-result-2.png" width="600">  
-  <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/05-result-3.png" width="600">
+  - Refer to each sheet for details of the comparison results. / 比較した結果の詳細は、各シートを参照する。
+  
+    - In the case of there is the same value in the same cell. / 同じセルに同じ値がある場合。  
+    <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/03_result-1.png" width="600">  
+  
+    - The values in the header are ignored. / 異なる値が設定されていても、ヘッダであれば無視される。  
+    <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/04-result-2.png" width="600">  
+  
+    - If there are different values in the same cell position, the cell color turns red. / 同じセルの位置に異なる値があった場合、セルの色が赤くなる。
+    <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/05-result-3.png" width="600">
   
