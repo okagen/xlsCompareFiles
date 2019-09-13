@@ -44,5 +44,5 @@ root directory
 ## Terminology
 
   - 突合（TOTSUGO）
-      - 突き合わせて調べること。 / To check the ｍatching two or more materials together.
+      - 突き合わせて調べること。 / To check the ｍatching of two or more materials together.
       
