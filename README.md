@@ -41,5 +41,8 @@ root directory
     - If there are different values in the same cell position, the cell color turns red. / 同じセルの位置に異なる値があった場合、セルの色が赤くなる。
     <img src="https://github.com/okagen/xlsCompareFiles/blob/master/Data/05-result-3.png" width="600">
     
-    
-  
+## Terminology
+
+  - 突合（TOTSUGO）
+      - 突き合わせて調べること。 / To check the ｍatching two or more materials together.
+      
